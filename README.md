@@ -1,4 +1,4 @@
-##[My](https://github.com/IgorBeschastnov) solutions to exercism tasks in Haskell
+## [My](https://github.com/IgorBeschastnov) solutions to exercism tasks in Haskell
 
 ---
 
