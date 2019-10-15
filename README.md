@@ -1,8 +1,6 @@
-# Exercism Haskell Track
+##[My](https://github.com/IgorBeschastnov) solutions to exercism tasks in Haskell
 
-[![Build Status](https://travis-ci.org/exercism/haskell.png?branch=master)](https://travis-ci.org/exercism/haskell)
-
-Exercism exercises in Haskell
+---
 
 ## Contributing Guide
 
