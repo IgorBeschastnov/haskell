@@ -1,5 +1,9 @@
 # [My](https://github.com/IgorBeschastnov) solutions to exercism tasks in Haskell
 
+*Solved*:
+- leap
+- pangram
+
 ---
 
 # Exercism Haskell Track
