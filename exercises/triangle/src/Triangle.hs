@@ -7,4 +7,19 @@ data TriangleType = Equilateral
                   deriving (Eq, Show)
 
 triangleType :: (Num a, Ord a) => a -> a -> a -> TriangleType
-triangleType a b c = error "You need to implement this function."
+
+isIllegal a b c = if a + b > c && a + c > b && b + c > a 
+    then False
+    else True
+isIsosceles a b c = if a == b || b == c || c == a
+    then True
+    else False
+isEquilateral a b c = if a == b && b == c
+    then True
+    else False
+
+triangleType a b c 
+    | isIllegal a b c = Illegal
+    | isEquilateral a b c = Equilateral
+    | isIsosceles a b c = Isosceles
+    | otherwise = Scalene

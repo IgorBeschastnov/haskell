@@ -1,8 +1,11 @@
 # [My](https://github.com/IgorBeschastnov) solutions to exercism tasks in Haskell
 
-*Solved*:
+**Solved:**
 - leap
 - pangram
+- space age
+- strain
+- triangle
 
 ---
 
