@@ -6,6 +6,9 @@
 - space age
 - strain
 - triangle
+- sum of multiples
+- twelve days
+- hamming
 
 ---
 
